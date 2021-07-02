@@ -1,0 +1,99 @@
+#name{
+   color:rgb(26, 6, 97);
+   font-family: 'Yellowtail', cursive;
+   
+}
+#under-name{
+    color:rgb(26, 6, 97);
+    font-family: 'Yellowtail', cursive;
+}
+#navBar{
+    background-color: rgba(29, 165, 206, 0.781);
+   
+}
+#footer{
+    background-color: rgba(29, 165, 206, 0.781); 
+    color:honeydew;
+    size: 100px;
+}
+
+#top-div{
+    margin-top: 10px;
+}
+
+
+#work-button{
+    background-color: rgba(29, 165, 206, 0.781);
+    width: 70%;
+    margin-bottom: 25px;
+    color: white;
+}
+
+
+
+
+
+#mid-div img{
+    height: 175px;
+
+}
+
+
+#mid-div p{
+height:180px;
+}
+
+#mid-div a{
+    color: white
+}
+
+#mid-div{
+    
+    margin-bottom: 10px;
+}
+#card-action{
+    background-color: rgba(29, 165, 206, 0.781);
+    
+}
+
+.card{
+    border-width: 4px;
+    border-style: solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#about-body{
+    
+    background: url(https://images.unsplash.com/photo-1553017811-65622ea2baec?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80);
+   
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.top-div-contact{
+    margin-top:50px;
+  
+    
+}
+.top-div-projects{
+    background-color: white;
+    margin-top: 20px;
+}
+
+.bot-div-img{
+    height: 80%;
+
+}
+.top-div-about {
+    margin-top: 30px;
+    background-color: rgba(24, 41, 41, 0.904);
+    margin-bottom: 400px;
+   color: white;
+}
+#body-projects{
+    
+    color: rgba(35, 126, 153, 0.979);
+    background:url(https://images.unsplash.com/photo-1578364249730-0c4ee16426fa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
+}
